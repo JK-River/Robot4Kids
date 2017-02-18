@@ -30,7 +30,3 @@ https://github.com/JK-River/RobotApp-iOS
 ##机器人Android APP
 https://github.com/JK-River/RobotApp-Android  
 本项目包括儿童机器人Android APP相关的框架、组件、关键技术。
-## TOC
-[TOC]
-
-
