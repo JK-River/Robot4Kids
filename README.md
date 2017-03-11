@@ -32,5 +32,38 @@ https://github.com/JK-River/RobotApp-Android
 本项目包括儿童机器人Android APP相关的框架、组件、关键技术。
 
 #技术资料
-##1、IBM Deep QA系列论文
-DeepQA文件夹
+##1、IBM Deep QA系列论文(DeepQA文件夹)
+1 Introduction to “This is Watson”
+D. A. Ferrucci  
+2 Question analysis: How Watson reads a clue
+A. Lally, J. M. Prager, M. C. McCord, B. K. Boguraev, S. Patwardhan, J. Fan, P. Fodor, and J. Chu-Carroll  
+3 Deep parsing in Watson
+M. C. McCord, J. W. Murdock, and B. K. Boguraev  
+4 Textual resource acquisition and engineering
+J. Chu-Carroll, J. Fan, N. Schlaefer, and W. Zadrozny  
+5 Automatic knowledge extraction from documents
+J. Fan, A. Kalyanpur, D. C. Gondek, and D. A. Ferrucci  
+6 Finding needles in the haystack: Search and candidate generation
+J. Chu-Carroll, J. Fan, B. K. Boguraev, D. Carmel, D. Sheinwald, and C. Welty  
+7 Typing candidate answers using type coercion
+J. W. Murdock, A. Kalyanpur, C. Welty, J. Fan, D. A. Ferrucci, D. C. Gondek, L. Zhang, and H. Kanayama  
+8 Textual evidence gathering and analysis
+J. W. Murdock, J. Fan, A. Lally, H. Shima, and B. K. Boguraev  
+9 Relation extraction and scoring in DeepQA
+C. Wang, A. Kalyanpur, J. Fan, B. K. Boguraev, and D. C. Gondek  
+10 Structured data and inference in DeepQA
+A. Kalyanpur, B. K. Boguraev, S. Patwardhan, J. W. Murdock, A. Lally, C. Welty, J. M. Prager, B. Coppola, A. Fokoue-Nkoutche, L. Zhang, Y. Pan, and Z. M. Qiu  
+11 Special Questions and techniques
+J. M. Prager, E. W. Brown, and J. Chu-Carroll  
+12 Identifying implicit relationships
+J. Chu-Carroll, E. W. Brown, A. Lally, and J. W. Murdock  
+13 Fact-based question decomposition in DeepQA
+A. Kalyanpur, S. Patwardhan, B. K. Boguraev, A. Lally, and J. Chu-Carroll  
+14 A framework for merging and ranking of answers in DeepQA
+D. C. Gondek, A. Lally, A. Kalyanpur, J. W. Murdock, P. A. Duboue, L. Zhang, Y. Pan, Z. M. Qiu, and C. Welty  
+15 Making Watson fast
+E. A. Epstein, M. I. Schor, B. S. Iyer, A. Lally, E. W. Brown, and J. Cwiklik  
+16 Simulation, learning, and optimization techniques in Watson’s game strategies
+G. Tesauro, D. C. Gondek, J. Lenchner, J. Fan, and J. M. Prager  
+17 In the game: The interface between Watson and Jeopardy!
+B. L. Lewis  
