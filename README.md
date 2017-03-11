@@ -12,21 +12,25 @@
 <!-- more -->
 
 #包括项目
-##儿童教育知识图谱
+##1、儿童教育知识图谱
 https://github.com/JK-River/KnowledgeGraph4Kids  
 本项目主要包括儿童教育相关的结构化数据以及故事、儿歌等音频、视频资源。
-##机器人AI引擎
+##2、机器人AI引擎
 https://github.com/JK-River/RobotAIEngine  
 本项目主要包括自然语言理解、对话生成、多轮对话、状态跟踪、智能推荐以及第三方服务的集成。
-##机器人服务器
+##3、机器人服务器
 https://github.com/JK-River/RobotServer  
 本项目包括服务器端的框架、组件、标准接口、维护系统、打点系统
-##网络爬虫
+##4、网络爬虫
 https://github.com/JK-River/DeepWebCrawler  
 本项目包括爬虫相关的框架、组件、关键技术以及针对儿童教育相关内容的具体应用。
-##机器人iOS APP
+##5、机器人iOS APP
 https://github.com/JK-River/RobotApp-iOS  
 本项目包括儿童机器人iOS APP相关的框架、组件、关键技术。
-##机器人Android APP
+##6、机器人Android APP
 https://github.com/JK-River/RobotApp-Android  
 本项目包括儿童机器人Android APP相关的框架、组件、关键技术。
+
+#技术资料
+##1、IBM Deep QA系列论文
+DeepQA文件夹
